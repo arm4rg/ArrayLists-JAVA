@@ -7,6 +7,23 @@ Este proyecto está desarrollado en Java y proporciona una interfaz de consola p
 - JDK instalado en máquina (puede ser OpenJDK 21 o posteriores).
 - Un editor de texto o un IDE (por ejemplo, Visual Studio Code, Eclipse, etc.)
 
+## Ejecución
+1. Clona este repositorio:
+```bash
+git clone https://github.com/arm4rg/ArrayLists-JAVA.git
+cd ArrayLists-JAVA
+```
+
+2. Compila el archivo `App.java`:
+```bash
+javac App.java
+```
+
+2. Ejecuta el programa:
+```bash
+java App
+```
+
 ## Descripción del Programa
 
 El programa tiene un menú interactivo que ofrece las siguientes opciones:
